@@ -1,1 +1,2 @@
 *.txt linguist-vendored
+*.ipynb linguist-vendored
